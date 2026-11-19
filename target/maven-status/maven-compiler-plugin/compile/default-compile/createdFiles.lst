@@ -1,0 +1,9 @@
+br\dev\guicosta\dukemarket\javafx\controller\ScrProdutosController.class
+br\dev\guicosta\dukemarket\javafx\controller\MenuPrincipalController.class
+br\dev\guicosta\dukemarket\javafx\App.class
+br\dev\guicosta\dukemarket\javafx\PrimaryController.class
+module-info.class
+br\dev\guicosta\dukemarket\javafx\DAO\ProdutoDAO.class
+br\dev\guicosta\dukemarket\javafx\SecondaryController.class
+connection\MySQLConnection.class
+br\dev\guicosta\dukemarket\javafx\model\Produto.class
